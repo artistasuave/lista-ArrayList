@@ -25,3 +25,4 @@ hs_err_pid*
 *.properties
 ExerciciosArrayList/build/classes/.netbeans_update_resources
 ExerciciosArrayList/build/classes/.netbeans_automatic_build
+/ExerciciosArrayList/dist/

@@ -29,18 +29,18 @@ public class Exercicio01 {
         JOptionPane.showMessageDialog(null,
                 "Primeiro número: " + numeros.get(0)
                 + "\nSegundo número: " + numeros.get(1)
-                +"\nTerceiro número: " + numeros.get(2)
-                +"\nQuarto número: " + numeros.get(3)
-                +"\nQuinto número: " + numeros.get(4)
-                +"\nSexto número: " + numeros.get(5)
-                +"\nSétimo número: " + numeros.get(6)
-                +"\nOitavo número: " + numeros.get(7)
-                +"\nNono número: " + numeros.get(8)
-                +"\nDécimo número: " + numeros.get(9)
-                +"\nDécimo primeiro número: " + numeros.get(10)
-                +"\nDécimo segundo número: " + numeros.get(11)
-                +"\nDécimo terceiro número: " + numeros.get(12)
-                +"\nDécimo quarto número: " + numeros.get(13)
-                +"\nDécimo quinto número: " + numeros.get(14));
+                + "\nTerceiro número: " + numeros.get(2)
+                + "\nQuarto número: " + numeros.get(3)
+                + "\nQuinto número: " + numeros.get(4)
+                + "\nSexto número: " + numeros.get(5)
+                + "\nSétimo número: " + numeros.get(6)
+                + "\nOitavo número: " + numeros.get(7)
+                + "\nNono número: " + numeros.get(8)
+                + "\nDécimo número: " + numeros.get(9)
+                + "\nDécimo primeiro número: " + numeros.get(10)
+                + "\nDécimo segundo número: " + numeros.get(11)
+                + "\nDécimo terceiro número: " + numeros.get(12)
+                + "\nDécimo quarto número: " + numeros.get(13)
+                + "\nDécimo quinto número: " + numeros.get(14));
     }
 }
