@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Alunos
+ * @author Michelle de Jesus Rogério
  */
 public class Exercicio04 {
 
